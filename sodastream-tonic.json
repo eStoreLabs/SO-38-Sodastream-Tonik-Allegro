@@ -1,0 +1,82 @@
+[
+    {
+        "type": "IMAGE",
+        "image": {
+            "url": "./MOD01.png",
+            "size": "L",
+            "alt": "Syrop Sodastream Tonic, 440ml"
+        }
+    },
+    {
+        "type": "IMAGE_WITH_TEXT",
+        "image": {
+            "url": "./MOD02.png",
+            "size": "M",
+            "alt": ""
+        },
+        "text": {
+            "content": "<p>SodaStream Tonik łączy subtelną, cytrusową nutę z delikatną goryczką, tworząc idealną bazę do klasycznych napojów i wieczornych moktajli. Odkryj musujące doznania – miksuj, eksperymentuj i twórz własne wersje kultowych drinków.</p><p><strong>Tonik w Twoim stylu</strong><ul><li>Idealny poziom nagazowania – dopasuj stopień nagazowania i ciesz się orzeźwieniem na własnych zasadach.</li><li>Pełna kontrola nad smakiem – decyduj o intensywności i dodatkach.</li><li>Delektuj się wyważoną goryczką i cytrusowymi nutami - świetnymi solo oraz z dodatkami.</li></ul></p><p><strong>SodaStream Tonik – jeden smak, wiele możliwości!</strong></p>",
+            "order": "LAST"
+        }
+    },
+    {
+        "type": "IMAGE",
+        "image": {
+            "url": "./MOD03.png",
+            "size": "L",
+            "alt": "gazuj, miksuj, smakuj"
+        }
+    },
+    {
+        "type": "TEXT",
+        "content": "<p>Orzeźwiające bąbelki i kultowe, wytrawne nuty – duet idealny! SodaStream Tonik zabierze Cię w podróż po smakach znanych z najlepszych drinków z całego świata! Zaskocz siebie i bliskich wariacjami napojów na bazie toniku.</p><p>Jedna butelka syropu o pojemności 440 ml pozwala przygotować aż 9 litrów napoju – dopasowanego do Twojego gustu i okazji.</p><p><strong>Postaw na kreatywne połączenia!</strong></p>"
+    },
+    {
+        "type": "IMAGE",
+        "image": {
+            "url": "./MOD04.png",
+            "size": "L",
+            "alt": "1, 2, 3... Gotowe!"
+        }
+    },
+    {
+        "type": "TEXT",
+        "content": "<h3>Jak przygotować idealny napój?</h3><p><ol><li><strong>Nagazuj wodę</strong>napełnij butelkę SodaStream zimną wodą, zamontuj ją w saturatorze i nagazuj według własnych preferencji.</li><li><strong>Dodaj syrop SodaStream Tonik</strong>– wlej odpowiednią ilość syropu do nagazowanej wody, dostosowując intensywność smaku do swoich preferencji i delikatnie wymieszaj.</li><li><strong>Urozmaić kompozycję</strong>dodaj plastry cytrusów, gałązkę rozmarynu lub inne aromatyczne dodatki, by podkreślić wyjątkowy charakter napoju.</li></ol></p><p>PAMIĘTAJ! Gazuj zawsze czystą wodę – dodatki i syrop dodawaj dopiero po nagazowaniu wody.</p>"
+    },
+    {
+        "type": "IMAGE_WITH_TEXT",
+        "image": {
+            "url": "./MOD05.png",
+            "size": "M",
+            "alt": ""
+        },
+        "text": {
+            "content": "<h3>SodaStream Tonik – smak na każdą okazję!</h3><p>Orzeźwiający, z delikatną goryczką i cytrusowym akcentem – SodaStream Tonik to syrop, który  dopasuje się do każdej okazji. Niezależnie od tego, czy masz ochotę na szybkie odświeżenie, czy celebrujesz wieczorny relaks.</p><p><strong>Energetyczne przedpołudnie</strong>– orzeźwiający tonik z cytrusami doda Ci lekkości i pobudzi Cię do działania.</p><p><strong>Chwila wytchnienia w ciągu dnia</strong>– klasyczny tonik solo lub z kostkami lodu to doskonały sposób na ochłodę.</p><p><strong>Wieczorny relaks</strong>– połącz tonik z rozmarynem i plasterkiem grejpfruta, by stworzyć elegancki napój na spokojne wieczory.</p>",
+            "order": "FIRST"
+        }
+    },
+    {
+        "type": "TEXT",
+        "content": "<h3>SodaStream – Najczęściej zadawane pytania</h3><p><strong>Jak dostosować poziom nagazowania?</strong></p><p>Po zamontowaniu butelki w saturatorze naciśnij przycisk lub dźwignię:<ul><li>1–3 przyciśnięcia – delikatne bąbelki</li><li>3–4 przyciśnięcia – średni gaz</li><li>5+ przyciśnięć – intensywne bąbelki</li></ul></p><p><strong>Czy butelki SodaStream są szczelne?</strong></p><p>Wielorazowe butelki SodaStream zostały zaprojektowane tak, aby szczelnie utrzymywać gaz przez cały okres użytkowania, czyli przez 4 lata.</p><p><strong>Na jak długo wystarcza jeden nabój CO2?</strong></p><p>Jeden cylinder SodaStream pozwala na przygotowanie około 60 litrów wody gazowanej.</p>"
+    },
+    {
+        "type": "IMAGE",
+        "image": {
+            "url": "./MOD07.png",
+            "size": "L",
+            "alt": ""
+        }
+    },
+    {
+        "type": "TEXT",
+        "content": "<h3>Egzotyczna podróż z bąbelkami – odkryj smaki SodaStream!</h3><p><strong>Orzeźwienie w klasycznym stylu</strong></p><p>SodaStream Cola, Cytryna Limonka i Xtreme Energy to ponadczasowe propozycje dla tych, którzy cenią wyrazisty smak i bąbelkową świeżość.</p><p><strong>Kultowe smaki zawsze pod ręką</strong></p><p>Pepsi, Pepsi Cherry, Mirinda, 7UP i Lipton Ice Tea Green – kultowe napoje gazowane, które teraz możesz przygotować dokładnie tak, jak lubisz.</p><p><strong>Owocowe eksplozje smaku</strong></p><p>Marakuja, Pomarańcza Mango, Malina i Owoce Leśne – idealne propozycje na słodkie i orzeźwiające napoje bez dodatku cukru.</p><p><strong>Miksologiczne eksperymenty</strong></p><p>SodaStream Crafted to propozycja dla tych, którzy kochają koktajle i moktajle. Przygotuj w kilka chwil nietuzinkowe drinki i zaskocz siebie oraz swoich gości wyjątkowymi smakami.</p>"
+    },
+    {
+        "type": "IMAGE",
+        "image": {
+            "url": "./MOD08.png",
+            "size": "L",
+            "alt": ""
+        }
+    }
+]
