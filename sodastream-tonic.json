@@ -39,7 +39,7 @@
   },
   {
     "type": "TEXT",
-    "content": "<h3>Jak przygotować idealny napój?</h3><p><ol><li><strong>Nagazuj wodę</strong>napełnij butelkę SodaStream zimną wodą, zamontuj ją w saturatorze i nagazuj według własnych preferencji.</li><li><strong>Dodaj syrop SodaStream Tonik</strong>– wlej odpowiednią ilość syropu do nagazowanej wody, dostosowując intensywność smaku do swoich preferencji i delikatnie wymieszaj.</li><li><strong>Urozmaić kompozycję</strong>dodaj plastry cytrusów, gałązkę rozmarynu lub inne aromatyczne dodatki, by podkreślić wyjątkowy charakter napoju.</li></ol></p><p>PAMIĘTAJ! Gazuj zawsze czystą wodę – dodatki i syrop dodawaj dopiero po nagazowaniu wody.</p>"
+    "content": "<h3>Jak przygotować idealny napój?</h3><p><ol><li><strong>Nagazuj wodę</strong> napełnij butelkę SodaStream zimną wodą, zamontuj ją w saturatorze i nagazuj według własnych preferencji.</li><li><strong>Dodaj syrop SodaStream Tonik</strong> – wlej odpowiednią ilość syropu do nagazowanej wody, dostosowując intensywność smaku do swoich preferencji i delikatnie wymieszaj.</li><li><strong>Urozmaić kompozycję</strong> dodaj plastry cytrusów, gałązkę rozmarynu lub inne aromatyczne dodatki, by podkreślić wyjątkowy charakter napoju.</li></ol></p><p>PAMIĘTAJ! Gazuj zawsze czystą wodę – dodatki i syrop dodawaj dopiero po nagazowaniu wody.</p>"
   },
   {
     "type": "IMAGE_WITH_TEXT",
@@ -49,7 +49,7 @@
       "alt": ""
     },
     "text": {
-      "content": "<h3>SodaStream Tonik – smak na każdą okazję!</h3><p>Orzeźwiający, z delikatną goryczką i cytrusowym akcentem – SodaStream Tonik to syrop, który  dopasuje się do każdej okazji. Niezależnie od tego, czy masz ochotę na szybkie odświeżenie, czy celebrujesz wieczorny relaks.</p><p><strong>Energetyczne przedpołudnie</strong>– orzeźwiający tonik z cytrusami doda Ci lekkości i pobudzi Cię do działania.</p><p><strong>Chwila wytchnienia w ciągu dnia</strong>– klasyczny tonik solo lub z kostkami lodu to doskonały sposób na ochłodę.</p><p><strong>Wieczorny relaks</strong>– połącz tonik z rozmarynem i plasterkiem grejpfruta, by stworzyć elegancki napój na spokojne wieczory.</p>",
+      "content": "<h3>SodaStream Tonik – smak na każdą okazję!</h3><p>Orzeźwiający, z delikatną goryczką i cytrusowym akcentem – SodaStream Tonik to syrop, który  dopasuje się do każdej okazji. Niezależnie od tego, czy masz ochotę na szybkie odświeżenie, czy celebrujesz wieczorny relaks.</p><p><strong>Energetyczne przedpołudnie</strong> – orzeźwiający tonik z cytrusami doda Ci lekkości i pobudzi Cię do działania.</p><p><strong>Chwila wytchnienia w ciągu dnia</strong> – klasyczny tonik solo lub z kostkami lodu to doskonały sposób na ochłodę.</p><p><strong>Wieczorny relaks</strong> – połącz tonik z rozmarynem i plasterkiem grejpfruta, by stworzyć elegancki napój na spokojne wieczory.</p>",
       "order": "FIRST",
       "align": "MID"
     }
