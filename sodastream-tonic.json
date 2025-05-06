@@ -44,7 +44,7 @@
   {
     "type": "IMAGE_WITH_TEXT",
     "image": {
-      "url": "./MOD05.png",
+      "url": "./MOD04.png",
       "size": "M",
       "alt": ""
     },
@@ -57,7 +57,7 @@
   {
     "type": "IMAGE_WITH_TEXT",
     "image": {
-      "url": "./MOD06.png",
+      "url": "./MOD05.png",
       "size": "M",
       "alt": ""
     },
@@ -70,7 +70,7 @@
   {
     "type": "IMAGE",
     "image": {
-      "url": "./MOD07.png",
+      "url": "./MOD06.png",
       "size": "L",
       "alt": ""
     }
@@ -82,7 +82,7 @@
   {
     "type": "IMAGE",
     "image": {
-      "url": "./MOD08.png",
+      "url": "./MOD07.png",
       "size": "L",
       "alt": ""
     }
